@@ -1,0 +1,1 @@
+Tailored resume and job description for a Junior Back-End Developer role, created as part of a resume optimization project. Includes an ATS-optimized resume highlighting C#, ASP.NET Core, EF Core, and RESTful API skills.
